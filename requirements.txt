@@ -1,0 +1,2 @@
+Twisted==13.2.0
+txsocksx==1.13.0.1
